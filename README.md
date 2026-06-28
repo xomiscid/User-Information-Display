@@ -6,5 +6,5 @@ My 2nd python project is an user information display
 - Handle the case that the user enter another thing than an integer for the age;
 - Display user informations
 
-## Technology
+## Technologies
 - Python 3 
